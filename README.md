@@ -64,12 +64,6 @@ make clean
 - `globals.c` - Global variables
 - `test_shell.c` - Test suite
 
-## Team Members
-1. [Member 1] - Core shell implementation
-2. [Member 2] - Process control
-3. [Member 3] - I/O features
-4. [Member 4] - Testing and documentation
-
 ## File Manifest
 - Source Files:
   - shell.h
